@@ -18,7 +18,7 @@ export default function Navbar() {
               className="h-8 w-8"
             />
             <span className="text-lg font-bold text-gray-800">
-              Book
+              BookBlog
             </span>
           </a>
         </div>
